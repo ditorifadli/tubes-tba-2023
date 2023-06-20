@@ -1,4 +1,5 @@
-<h1 align ="center"> Lexical Analyzer dan Parser "for-loop C++".</h1>
+<h1 align ="center">Lexical Analyzer dan Parser untuk "for-loop C++".</h1>
+<h3 align ="center">Tugas Besar Teori Bahasa & Automata</h3>
 
 ## Cara menjalankan program:
 1. Clone menggunakan `git clone https://github.com/ditorifadli/tubes-tba-2023.git`
@@ -10,6 +11,7 @@
 1. Setelah di run, akan muncul input:
 2. Masukan file dengan format txt seperti `SourceCode.txt`
 3. Lalu enter, kode berhasil dijalankan
+4. Output dapat di lihat pada file `OutputFile.txt`
 
 ## Contoh isi dari SourceCode.txt:
 ```
