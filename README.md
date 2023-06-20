@@ -20,7 +20,6 @@ for (int i = 1; i <= 5; i++){
 
 ## Output dari SourceCode.txt
 <h3>Hasil</h3>
-```
 	 Token   No :01  |          for  ------->  |                Statement                  
 	 Token   No :02  |            (  ------->  |           Special-Symbol                  
 	 Token   No :03  |          int  ------->  |                Data Type                  
@@ -43,8 +42,10 @@ for (int i = 1; i <= 5; i++){
 	 Token   No :20  |            ;  ------->  |           Special-Symbol                  
 	 Token   No :21  |            }  ------->  |           Special-Symbol                  
 Hasil Parsing Dari:
+```
 for (int i = 1; i <= 5; i++){ 
     cout <<i; 
     }
-Valid/ Diterima!
 ```
+Valid/ Diterima!
+
