@@ -53,7 +53,7 @@ int main() {
     fout.open("OutputFile.txt");
     string filename;
 
-    cout << "MASUKAN NAMA FILE 'SourceCode.txt' LALU TEKAN ENTER! \n";
+    cout << "MASUKAN FILE DENGAN FORMAT TXT LALU TEKAN ENTER! Contoh: SourceCode.txt "\n";
     cout << "Input: ";
     cin >> filename;
     ifstream fin(filename);
