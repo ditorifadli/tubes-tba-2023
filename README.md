@@ -8,7 +8,7 @@
 4. Program siap dijalankan
 
 ## Cara memasukan inputan:
-1. Setelah di run, akan muncul input:
+1. Setelah di run, akan muncul `input:`
 2. Masukan file dengan format txt seperti `SourceCode.txt`
 3. Lalu enter, kode berhasil dijalankan
 4. Output dapat di lihat pada file `OutputFile.txt`
